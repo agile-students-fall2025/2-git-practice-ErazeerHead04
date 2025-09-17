@@ -26,3 +26,8 @@ but also leaving something behind that others will work with in the future.
 
 
 
+## Forked: 
+Name: Pranathi Chinthalapani PRC9852
+
+### Thoughts: 
+This blog entry is interesting because it blends programming history, personal reflection, and software craftsmanship into one story. Uncle Bob revisits a game he first built in 1978 and reflects on how rewriting it decades later in Clojure with functional programming principles created a codebase that was easy to re-enter even after three years away. What stands out is how immutability, clear specs, and strong testing turned what could have been a daunting. 
