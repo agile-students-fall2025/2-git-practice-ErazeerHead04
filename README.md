@@ -4,7 +4,7 @@
 
 
 
-From reading \[this article on Clean Code](https://blog.cleancoder.com/) by Robert C. Martin,  
+From reading [this article on Clean Code](https://blog.cleancoder.com/) by Robert C. Martin,  
 
 I learned a lot about how important it is to write code that is easy to read and maintain.  
 
